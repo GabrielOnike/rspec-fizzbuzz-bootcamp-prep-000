@@ -6,7 +6,7 @@ def fizzbuzz(int)
   elsif int % 5 == 0
    "Buzz"
  else
-   puts "nil"
+    "nil"
 
    int += 1
 end
