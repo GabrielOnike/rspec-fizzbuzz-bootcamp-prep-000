@@ -1,4 +1,4 @@
-def fizzbuzz  
+def fizzbuzz
   (1..100).each do |num|
 	message = ""
 	message << "fizz" if num%3 == 0
